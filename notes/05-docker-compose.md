@@ -17,6 +17,6 @@
 
 [:arrow_right: docs.docker.com](https://docs.docker.com/)
 
-## Docker compose
+## Docker ADD
 
-[:arrow_right: docs.docker.com](https://www.educative.io/edpresso/what-is-the-docker-add-command)
+[:arrow_right: Add.com](https://www.educative.io/edpresso/what-is-the-docker-add-command)

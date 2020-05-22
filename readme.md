@@ -10,3 +10,4 @@
 3. [Docker Volume](notes/03-docker-volume.md)
 4. [Docker Network Basics](04-notes/docker-network.md)
 5. [Docker Compose](notes/05-docker-compose.md)
+6. [Docker ADD](notes/05-docker-compose.md)
